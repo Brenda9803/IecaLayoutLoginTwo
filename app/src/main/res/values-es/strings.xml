@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IecaLayoutLoginTwo</string>
+
+    <string name="btnChooseFile">Buscar Archivo</string>
+    <string name="btnUpload">Cargar Archivo</string>
+    <string name="txtFileName">Nombre de Archivo</string>
+    <string name="msgNFileSelected">Archivo no seleccionado</string>
+    <string name="msgSuccess">El archivo fue cargado con exito</string>
+    <string name="msgInProgress">Carga en proceso</string>
+    <string name="btnShowImages">Mostrar imagenes</string>
+
+
+
+</resources>

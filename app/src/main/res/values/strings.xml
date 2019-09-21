@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IecaLayoutLoginTwo</string>
+
+    <string name="btnChooseFile">Choose File</string>
+    <string name="btnUpload">Upload</string>
+    <string name="txtFileName">File Name</string>
+    <string name="msgNFileSelected">No file selected</string>
+    <string name="msgSuccess">Upload successful</string>
+    <string name="msgInProgress">Upload in progress</string>
+    <string name="btnShowImages">Show images</string>
+
+
+</resources>

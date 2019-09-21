@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+
+    <TextView
+        android:id="@+id/lblIdModelItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Id:"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+    <TextView
+        android:id="@+id/lblGrupoModelItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grupo:"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+    <TextView
+        android:id="@+id/lblMateriaModelItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Materia"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+    <TextView
+        android:id="@+id/lblActividadModelItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actividad"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+</LinearLayout>
